@@ -1,0 +1,638 @@
+RECURSO ESPECIAL Nº 1.567.780 - RJ (2015/0267853-9)
+
+RELATOR
+
+RECORRENTE
+ADVOGADOS
+
+ADVOGADA
+RECORRIDO 
+ADVOGADOS
+
+: MINISTRO RICARDO VILLAS BÔAS CUEVA
+
+: ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO  ECAD 
+: HÉLIO SABOYA RIBEIRO DOS SANTOS FILHO  - RJ068819 
+PEDRO PAULO MUANIS SOBRINHO E OUTRO(S) - RJ082788 
+: KARINA HELENA CALLAI E OUTRO(S) - DF011620 
+: TV ÔMEGA LTDA 
+: ANDRÉA MARIA RODRIGUES  - RJ102236 
+THIAGO MENDES LADEIRA E OUTRO(S) - SP154633 
+MARCOS ALBERTO SANTA'NNA BITELLI  - RJ002607A
+ALEX CARLOS CAPURA DE ARAUJO  - SP296255 
+
+EMENTA
+
+RECURSO ESPECIAL. DIREITO AUTORAL. TRANSMISSÃO TELEVISIVA. 
+INTERNET. DISPONIBILIZAÇÃO DE OBRAS MUSICAIS. TECNOLOGIA 
+STREAMING . WEBCASTING E SIMULCASTING . EXECUÇÃO PÚBLICA. 
+CONFIGURAÇÃO. COBRANÇA DE DIREITOS 
+AUTORAIS. 
+ECAD. 
+POSSIBILIDADE. SIMULCASTING . MEIO AUTÔNOMO DE UTILIZAÇÃO DE 
+OBRAS INTELECTUAIS. COBRANÇA DE DIREITOS AUTORAIS. NOVO FATO 
+GERADOR. TABELAS DE PREÇOS. FIXAÇÃO PELO ECAD.  VALIDADE. LEI Nº 
+12.853/2013 E DECRETO Nº 8.469/2015. VIGÊNCIA. 
+1. Cinge-se a controvérsia a saber se a transmissão televisiva via internet nas 
+modalidades webcasting e simulcasting (tecnologia streaming ) se configura 
+execução pública de obras musicais apta a gerar o recolhimento de direitos 
+autorais pelo ECAD e se a transmissão de músicas na modalidade simulcasting 
+constitui meio autônomo de uso de obra intelectual, caracterizando novo fato 
+gerador de cobrança de direitos autorais.
+2. De acordo com os arts. 5º, inciso II, e 68, §§ 2º e 3º, da Lei Autoral, é possível 
+afirmar que o streaming é uma das modalidades previstas em lei pela qual as obras 
+musicais e fonogramas são transmitidos e que a internet é local de frequência 
+coletiva, caracterizando-se, desse modo, a execução como pública. Precedente da 
+Segunda Seção.
+3. O critério utilizado pelo legislador para determinar a autorização de uso pelo 
+titular do direito autoral previsto no art. 31 da Lei nº 9.610/1998 está relacionado 
+com a modalidade de utilização e não com o conteúdo em si considerado. Assim, 
+no caso do simulcasting , a despeito de o conteúdo transmitido ser o mesmo, os 
+canais de transmissão são distintos e, portanto, independentes entre si, tornando 
+exigível novo consentimento para utilização e criando novo fato gerador de 
+cobrança de direitos autorais pelo ECAD.
+4. As alterações promovidas pela Lei nº 12.853/2013 à Lei nº 9.610/1998 não 
+modificaram o âmbito de atuação do ECAD, que permanece competente para fixar 
+preços e efetuar a cobrança e a distribuição dos direitos autorais.
+5. O início da vigência do Regulamento de Arrecadação e das tabelas de preços 
+em conformidade com os novos critérios a serem observados para a formação do 
+valor a ser cobrado para a utilização das obras e fonogramas, previstos na Lei nº 
+12.853/2013 e no Decreto nº 8.469/2015, ocorre em 21/9/2015, de modo que 
+consideram-se válidas as tabelas anteriores até tal data.
+10. Recurso especial provido.
+
+ACÓRDÃO
+
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a 
+
+Documento: 1580383 - Inteiro Teor do Acórdão - Site certificado - DJe: 21/03/2017
+
+Página  1 de 13
+
+  Superior Tribunal de Justiça  
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+Terceira Turma, por unanimidade, dar provimento ao recurso especial, nos termos do voto do Sr. 
+Ministro Relator. Os Srs. Ministros Marco Aurélio Bellizze (Presidente), Moura Ribeiro, Nancy 
+Andrighi e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+
+Brasília (DF), 14 de março de 2017(Data do Julgamento)
+
+Ministro RICARDO VILLAS BÔAS CUEVA  
+Relator
+
+Documento: 1580383 - Inteiro Teor do Acórdão - Site certificado - DJe: 21/03/2017
+
+Página  2 de 13
+
+  Superior Tribunal de JustiçaRECURSO ESPECIAL Nº 1.567.780 - RJ (2015/0267853-9)
+
+RELATÓRIO
+
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): 
+
+Trata-se de recurso especial 
+interposto por ESCRITÓRIO CENTRAL DE 
+ARRECADAÇÃO E DISTRIBUIÇÃO (ECAD), com fundamento no art. 105, inciso III, alíneas "a" e 
+"c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio 
+de Janeiro. 
+
+Na origem, o ECAD ajuizou ação de cumprimento de preceito legal combinada com 
+perdas e danos contra TV ÔMEGA LTDA. visando, em liminar, "a suspensão ou interrupção de 
+qualquer execução/ transmissão de obras musicais, líteros musicais e fonogramas " pela ré (e-STJ 
+fl. 11). E, no mérito, a confirmação da liminar e "a suspensão em caráter definitivo, enquanto não 
+for exibida a competente comprovação da autorização fornecida pelo ECAD " (e-STJ fl. 11).
+Sustentou que a empresa ré, desde 30 de junho de 2009, disponibiliza a 
+programação da REDETV também por meio do site http://redetv.com.br, sendo assim, hipótese 
+de execução pública de obras musicais, são devidos os direitos autorais ao ECAD. 
+Após o indeferimento do pedido de antecipação dos efeitos da tutela (fl. 234 
+e-STJ), o magistrado de primeiro grau julgou improcedente o pedido (e-STJ fls. 1.004-1007) ao 
+entendimento de que "não são devidos direitos autorais nem no caso de simulcasting (em razão 
+da vedação do bis in idem) nem na hipótese de webcasting (por não haver prova de execução 
+pública) ".
+
+Irresignado, o ECAD interpôs apelação, à qual, por maioria de votos, foi negado 
+provimento (fls. 1.098-1.121 e-STJ). O acórdão recebeu a seguinte ementa:
+
+"COBRANÇA 
+DE 
+DIREITOS 
+AUTORAIS. 
+ECAD. 
+SIMULCASTING. 
+TRANSMISSÃO SIMULTÂNEA DE PROGRAMAÇÃO VIA 
+INTERNET. NÃO 
+CONFIGURAÇÃO DE VIA 
+INDEPENDENTE DE TRANSMISSÃO PÚBLICA. 
+DUPLA INCIDÊNCIA DA REMUNERAÇÃO MENSAL. ÚNICO FATO GERADOR. 
+BIS IN IDEM. VEDAÇÃO. WEBCASTING. TECNOLOGIA QUE POSSIBILITA O 
+ENVIO DE 
+INFORMAÇÕES ATRAVÉS DE PACOTES POR REDE DE 
+COMPUTADORES. EXECUÇÃO DE ARQUIVO DE MÍDIA EM COMPUTADOR. 
+TRANSMISSÃO INDIVIDUAL E DEDICADA, FICANDO A EXECUÇÃO DA OBRA 
+MUSICAL RESTRITA APENAS À LOCALIDADE DO USUÁRIO. NÃO 
+CONFIGURAÇÃO DE EXECUÇÃO PÚBLICA DE OBRAS MUSICAIS, NEM EM 
+LOCAL DE FREQUÊNCIA COLETIVA. SENTENÇA DE IMPROCEDÊNCIA QUE 
+SE MANTÉM. RECURSO A QUE SE NEGA PROVIMENTO " (1.009 e-STJ).
+
+Os embargos declaratórios opostos foram rejeitados (fls. 1.127-1.132 e-STJ).
+
+Documento: 1580383 - Inteiro Teor do Acórdão - Site certificado - DJe: 21/03/2017
+
+Página  3 de 13
+
+  Superior Tribunal de JustiçaNo especial, além da divergência jurisprudencial, o recorrente aponta violação dos 
+arts. 28, 29, 31, 68 e 99 da Lei nº 9.610/1998.
+Sustenta, em síntese: 
+
+(i) "que a autorização concedida para determinada modalidade de utilização de 
+obra é insuscetível de gerar presunções no sentido de tacitamente o titular da obra que a tenha 
+licenciado para reprodução por radiofusão (aparelhos de TV ou rádio) a tenha, por extensão, 
+liberado para reprodução, transmissão ou execução urbi et orbi por meio da internet " (fl. 1.142 
+e-STJ) e 
+
+(ii) que a transmissão via simulcasting e webcasting se configura como execução 
+pública de obra musical apta a ensejar a cobrança de direitos autorais pelo ECAD.
+O recurso especial foi inadmitido na origem (fls. 1.297-1.298 e-STJ), mas, por ter 
+sido provido recurso de agravo, houve a conversão do feito e a devida reautuação. 
+É o relatório.
+
+Documento: 1580383 - Inteiro Teor do Acórdão - Site certificado - DJe: 21/03/2017
+
+Página  4 de 13
+
+  Superior Tribunal de Justiça 
+RECURSO ESPECIAL Nº 1.567.780 - RJ (2015/0267853-9)
+
+VOTO
+
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): 
+
+Cinge-se a controvérsia a saber se a transmissão televisiva via internet nas 
+modalidades webcasting e simulcasting (tecnologia streaming ) se configura execução pública de 
+obras musicais apta a gerar o recolhimento de direitos autorais pelo ECAD e se a transmissão de 
+músicas na modalidade simulcasting constitui meio autônomo de uso de obra intelectual, 
+caracterizando novo fato gerador de cobrança de direitos autorais.
+Considerando-se as características técnicas singulares e relevantes para a 
+identificação do significado, do sentido e do alcance dos conceitos e das disposições da lei de 
+direito autoral, o tema ora em evidência foi submetido à apreciação da Segunda Seção do 
+Superior Tribunal de Justiça quando do julgamento do REsp nº 1.559.264/RJ, desta relatoria.
+
+Após amplo contraditório e debate pelos Ministros integrantes da Segunda 
+Seção, firmou-se o entendimento de que: i) é devida a cobrança de direitos autorais 
+decorrentes de execução musical via internet nas modalidades webcasting e simulcasting 
+(tecnologia streaming ), pois enquadram-se como atos de execução pública de obras 
+musicais aptos a ensejar pagamento ao ECAD, e ii) a transmissão de músicas mediante o 
+emprego da tecnologia streaming na modalidade simulcasting constitui meio autônomo de 
+uso de obra intelectual, caracterizando novo fato gerador de cobrança de direitos autorais 
+pelo ECAD.
+
+Naquela assentada, consignou-se que a partir das definições previstas no art. 68, 
+§§ 2º e 3º, da Lei nº 9.610/1998 é possível afirmar que a transmissão digital via streaming é uma 
+forma de execução pública, pois, nos termos da lei, considera-se execução pública a utilização de 
+obra literomusicais, em locais de frequência coletiva (internet), transmitidas por qualquer 
+modalidade (ondas radioelétricas, sinais de satélite, fio, cabo ou outro condutor meios óticos ou 
+outro processo eletromagnético – art. 5º, inciso II, da Lei nº 9.610/1998), o que, indubitavelmente, 
+inclui a internet.
+Destacou-se que o fato de a obra intelectual estar à disposição, ao alcance do 
+público, no ambiente coletivo da internet, por si só, torna a execução musical pública, sendo 
+
+relevante, para o legislador, tão somente a utilização das obras por uma coletividade 
+frequentadora do universo digital, que poderá, quando quiser acessar o acervo ali 
+disponibilizado.
+
+Isso porque, como visto, é a própria lei que define local de frequência coletiva 
+
+Documento: 1580383 - Inteiro Teor do Acórdão - Site certificado - DJe: 21/03/2017
+
+Página  5 de 13
+
+  Superior Tribunal de Justiçacomo o ambiente em que a obra literomusical é transmitida, no qual ela é propagada; na hipótese, 
+a internet é onde a criação musical é difundida.
+Ademais, os critérios determinantes para a caracterização de execução pública de 
+obra musical são aqueles previstos na Lei nº 9.610/1998, e dela não se extrai que a 
+
+interatividade, a simultaneidade na recepção do conteúdo e a pluralidade de pessoas são 
+fatores para definir uma execução como pública.
+Logo, a configuração da execução pública não se dá em decorrência do ato 
+praticado pelo indivíduo que acessa o site , mas, sim, pelo ato do provedor que o mantém, 
+disponibilizando a todos, isto é, ao público em geral, o acesso ao conteúdo musical.
+
+Também foi ressaltado que o streaming interativo (art. 29, VII, da Lei nº 
+9.610/1998), modalidade em que a seleção da obra é realizada pelo usuário, está ligado ao 
+denominado "direito de colocar à disposição ao público", situando-se no âmbito do direito de 
+comunicação ao público, e não no campo do direito de distribuição, conclusão que está em 
+harmonia com as diretrizes adotadas pela maioria dos países da União Europeia.
+Assim, quanto à questão, o ordenamento 
+jurídico pátrio consagrou o 
+reconhecimento de um amplo direito de comunicação ao público, no qual a simples 
+disponibilização da obra já qualifica o seu uso como execução pública, abrangendo, portanto, a 
+transmissão digital interativa (art. 29, VII, da Lei nº 9.610/1998) ou qualquer outra forma de 
+transmissão imaterial. Por conseguinte, as transmissões via streaming, tanto na modalidade 
+webcasting como na modalidade simulcasting, são tidas como execução pública de conteúdo, 
+legitimando a arrecadação e a distribuição dos direitos autorais pelo ECAD.
+No que tange à compreensão de que o simulcasting como meio autônomo de uso 
+de criação intelectual enseja nova cobrança do ECAD, destacou-se que a solução está prevista 
+na própria Lei nº 9.610/1998, em seu art. 31, que estabelece que para cada utilização da obra 
+literária, artística, científica ou de fonograma, uma nova autorização deverá ser concedida pelos 
+titulares dos direitos.
+Eis a redação do mencionado artigo:
+
+"Art. 31. As diversas modalidades de utilização de obras 
+literárias, artísticas ou científicas ou de fonogramas são independentes entre 
+
+si , e a autorização concedida pelo autor, ou pelo produtor, respectivamente, não se 
+estende a quaisquer das demais". (grifou-se)
+
+Tendo como ponto de partida o dispositivo acima, restou evidenciado que toda 
+nova forma de utilização de obras intelectuais - na hipótese, o simulcasting , transmissão 
+simultânea via internet - gera novo licenciamento e, consequentemente, novo pagamento de 
+
+Documento: 1580383 - Inteiro Teor do Acórdão - Site certificado - DJe: 21/03/2017
+
+Página  6 de 13
+
+  Superior Tribunal de Justiçadireitos autorais.
+Enfatizou-se que o critério utilizado pelo legislador para determinar a autorização 
+de uso pelo titular do direito autoral está relacionado com a modalidade de utilização e não com o 
+conteúdo em si considerado. Assim, no caso do simulcasting , a despeito de o conteúdo 
+transmitido ser o mesmo, os canais de transmissão são distintos e, portanto, independentes entre 
+si, tornando exigível novo consentimento para utilização, caracterizando, desse modo, novo fato 
+gerador de cobrança de direitos autorais pelo ECAD.
+Além disso, foi assinalado que ao se migrar a transmissão da programação 
+tradicionalmente limitada ao rádio para a internet, é possível aumentar o número de ouvintes em 
+potencial e gerar publicidade diversa da veiculada pela rádio, aspectos que reforçam a natureza 
+autônoma do simulcasting como modalidade de utilização de obra intelectual.
+O referido julgado restou assim ementado:
+
+"RECURSO ESPECIAL. DIREITO AUTORAL. 
+INTERNET. DISPONIBILIZAÇÃO 
+DE OBRAS MUSICAIS. TECNOLOGIA STREAMING. SIMULCASTING E 
+WEBCASTING. EXECUÇÃO PÚBLICA. CONFIGURAÇÃO. COBRANÇA DE 
+DIREITOS AUTORAIS. ECAD. POSSIBILIDADE. SIMULCASTING. MEIO 
+AUTÔNOMO DE UTILIZAÇÃO DE OBRAS 
+INTELECTUAIS. COBRANÇA DE 
+DIREITOS AUTORAIS. NOVO FATO GERADOR. TABELA DE PREÇOS. 
+FIXAÇÃO PELO ECAD. VALIDADE.
+1. Cinge-se a controvérsia a saber: (i) se é devida a cobrança de direitos autorais 
+decorrentes de execução musical via internet de programação da rádio OI FM nas 
+modalidades webcasting e simulcasting 
+(tecnologia streaming); 
+(ii) se 
+tais 
+transmissões configuram execução pública de obras musicais apta a gerar 
+pagamento ao ECAD e (iii) se a transmissão de músicas por meio da rede mundial 
+de computadores mediante o emprego da tecnologia streaming constitui meio 
+autônomo de uso de obra intelectual, caracterizando novo fato gerador de cobrança 
+de direitos autorais.
+2. Streaming é a tecnologia que permite a transmissão de dados e informações, 
+utilizando a rede de computadores, de modo contínuo. Esse mecanismo é 
+caracterizado pelo envio de dados por meio de pacotes, sem a necessidade de que 
+o usuário realize download dos arquivos a serem executados.
+3. O streaming é gênero que se subdivide em várias espécies, dentre as quais 
+estão o simulcasting e o webcasting. Enquanto na primeira espécie há transmissão 
+simultânea de determinado conteúdo por meio de canais de comunicação 
+diferentes, na segunda, o conteúdo oferecido pelo provedor é transmitido pela 
+internet, existindo a possibilidade ou não de intervenção do usuário na ordem de 
+execução.
+4. À luz do art. 29, incisos VII, VIII, 'i', IX e X, da Lei nº 9.610/1998, verifica-se que 
+a tecnologia streaming enquadra-se nos requisitos de 
+incidência normativa, 
+configurando-se, portanto, modalidade de exploração econômica das obras 
+musicais a demandar autorização prévia e expressa pelos titulares de direito.
+
+5. De acordo com os arts. 5º, inciso II, e 68, §§ 2º e 3º, da Lei Autoral, é 
+possível afirmar que o streaming é uma das modalidades previstas em lei, 
+pela qual as obras musicais e fonogramas são transmitidos e que a internet é 
+local de frequência coletiva, caracterizando-se, desse modo, a execução 
+
+Documento: 1580383 - Inteiro Teor do Acórdão - Site certificado - DJe: 21/03/2017
+
+Página  7 de 13
+
+  Superior Tribunal de Justiçacomo pública.
+6. Depreende-se da Lei nº 9.610/1998 que é irrelevante a quantidade de 
+pessoas que se encontram no ambiente de execução musical para a 
+configuração de um local como de frequência coletiva. Relevante, assim, é a 
+colocação das obras ao alcance de uma coletividade 
+frequentadora do 
+ambiente digital, que poderá, a qualquer momento, acessar o acervo ali 
+disponibilizado. Logo, o que caracteriza a execução pública de obra musical 
+pela internet é a sua disponibilização decorrente da transmissão em si 
+considerada, tendo em vista o potencial alcance de número indeterminado de 
+pessoas.
+7. O ordenamento jurídico pátrio consagrou o reconhecimento de um amplo 
+direito de comunicação ao público, no qual a simples disponibilização da 
+obra 
+já qualifica o seu uso como uma execução pública, abrangendo, 
+portanto, a transmissão digital interativa (art. 29, VII, da Lei nº 9.610/1998) ou 
+qualquer outra forma de transmissão 
+imaterial a ensejar a cobrança de 
+direitos autorais pelo ECAD.
+8. O critério utilizado pelo legislador para determinar a autorização de uso 
+pelo titular do direito autoral previsto no art.
+31 da Lei nº 9.610/1998 está relacionado à modalidade de utilização e não ao 
+conteúdo em si considerado. Assim, no caso do simulcasting, a despeito do 
+conteúdo transmitido ser o mesmo, os canais de transmissão são distintos e, 
+portanto, independentes entre si, tonando exigível novo consentimento para 
+utilização e criando novo fato gerador de cobrança de direitos autorais pelo 
+ECAD.
+
+9. Está no âmbito de atuação do ECAD a fixação de critérios para a cobrança dos 
+direitos autorais, que serão definidos no regulamento de arrecadação elaborado e 
+aprovado em Assembleia Geral, composta pelos representantes das associações 
+que o integram, e que contém uma tabela especificada de preços. Inteligência do 
+art. 98 da Lei nº 9.610/1998.
+10. Recurso especial provido " (REsp 1.559.264/RJ, Rel. Ministro RICARDO VILLAS 
+BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 8/2/2017, DJe 15/2/2017 - 
+grifou-se).
+
+No caso dos autos, o ponto distintivo do precedente acima invocado é o fato 
+de se tratar originalmente de transmissão televisiva, circunstância que em nada altera a 
+lógica jurídica aplicada na hipótese de transmissão via rádio.
+
+Por fim, quanto à legitimidade do ECAD para fixar os preços dos direitos autorais 
+decorrentes da execução pública musical e à legalidade dos valores, alega a recorrida que a 
+tabela de cobrança do ECAD está extinta desde 2013, quando da publicação da Lei nº 
+12.853/2013, o que afeta de forma cabal o objeto da ação, pois "o ECAD ainda insiste na 
+aplicação de suas extintas tabelas " (fl. 1.210 e-STJ).
+Quanto à definição dos critérios para a cobrança de direitos autorais, a 
+jurisprudência desta Corte, à luz do disposto na Lei nº 9.610/1998, é a de que, em se tratando de 
+direito de autor, compete a este a sua fixação, seja diretamente, seja por intermédio das 
+associações ou, na hipótese, do próprio ECAD, que possui métodos próprios para elaboração dos 
+
+Documento: 1580383 - Inteiro Teor do Acórdão - Site certificado - DJe: 21/03/2017
+
+Página  8 de 13
+
+  Superior Tribunal de Justiçacálculos diante da diversidade das obras reproduzidas, segundo critérios eleitos internamente.
+Dessa forma, em regra, está no âmbito de atuação do ECAD a fixação de critérios 
+para a cobrança dos direitos autorais, que serão definidos no regulamento de arrecadação 
+elaborado e aprovado em Assembleia Geral, composta pelos representantes das associações 
+que o integram, e que mantém uma tabela especificada de preços, conforme a redação do § 3° 
+do art. 98 da Lei nº 9.610/1998. 
+A propósito:
+
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 
+DIREITOS AUTORAIS. ECAD. LEGITIMIDADE. 
+ VIOLAÇÃO AO ART. 535 DO 
+CPC. NÃO OCORRÊNCIA. OFENSA AO ART. 538, PARÁGRAFO ÚNICO.  
+INCIDÊNCIA DA S.7/STJ.
+(...)
+4. Tem o ECAD legitimidade ativa para promover ação em defesa dos direitos de 
+autores de obras musicais, independentemente de prova de filiação ou autorização 
+dos titulares.
+
+5. É pacífico o entendimento desta Corte quanto à legitimidade do ECAD para 
+fixar critérios relativos ao montante devido a título de direitos autorais.
+
+6. Agravo regimental a que se nega provimento" (AgRg no AREsp 61.148/MA, Rel. 
+Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/6/2015, DJe 
+25/6/2015 – grifou-se).
+
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO 
+ESPECIAL. AÇÃO DECLARATÓRIA. RECONVENÇÃO. DIREITOS AUTORAIS. 
+ECAD. EXECUÇÕES PÚBLICAS DE TRILHAS SONORAS DE FILMES. TABELA 
+DE PREÇOS. LEGALIDADE.LEGITIMIDADE DO ECAD PARA COBRANÇA.
+1. Segundo a jurisprudência desta Corte, são devidos direitos autorais pela exibição 
+pública de trilhas sonoras de filmes.
+
+2. Este Tribunal Superior já assentou ser válida a tabela de preços instituída 
+pelo ECAD.
+
+3. A remansosa a jurisprudência desta Corte reconhece a legitimidade do ECAD 
+para a cobrança de direitos autorais independentemente da prova da filiação do 
+titular da obra.
+4. Agravo regimental não provido" (AgRg nos EDcl no REsp 885.783/SP, Rel. 
+Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 
+14/5/2013, DJe 22/5/2013 – grifou-se).
+
+"DIREITOS AUTORAIS. RECURSO ESPECIAL. ECAD. FIXAÇÃO DE PREÇOS, 
+ARRECADAÇÃO E DISTRIBUIÇÃO DE VALORES. FIXAÇÃO DE CRITÉRIOS. 
+MÚSICAS DE FUNDO. COMPETÊNCIA. REPRESENTAÇÃO. ASSOCIAÇÕES. 
+INTERESSES PRIVADOS.
+1. Discussão relativa à validade de deliberações de assembleias do ECAD que 
+definiram critérios de distribuição dos valores arrecadados a título de direitos 
+autorais referentes à exibição das músicas de fundo (background).
+2. Inexiste ofensa ao art. 535 do CPC, quando o tribunal de origem pronuncia-se de 
+forma clara e precisa sobre a questão posta nos autos.
+3. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ 
+não merece reforma.
+4. Esta Corte reconhece que, em se tratando de direito de autor, compete a ele a 
+
+Documento: 1580383 - Inteiro Teor do Acórdão - Site certificado - DJe: 21/03/2017
+
+Página  9 de 13
+
+  Superior Tribunal de Justiçafixação do seu valor, que pode se dar, contudo, diretamente ou por intermédio das 
+associações e do próprio ECAD.
+5. Com o ato de filiação as associações atuam como mandatárias de seus filiados, 
+na defesa dos seus interesses (art. 98 da Lei 9.610/98), inclusive e principalmente, 
+junto ao ECAD.
+
+6. O ECAD tem competência para fixar preços, efetuar a cobrança e a 
+distribuição dos direitos autorais e as associações que o 
+integram 
+legitimamente representam os interesses dos seus filiados, autores das 
+obras protegidas.
+7. Não se vislumbra abusividade nas deliberações tomadas, que inclusive, 
+levaram em conta a proporcionalidade da distribuição dos valores, e, assim, 
+não cabe ao Poder Judiciário se imiscuir nas decisões do ECAD, que 
+administra interesses eminentemente privados, para definir qual o critério 
+mais adequado para a arrecadação e distribuição dos valores referentes aos 
+direitos dos autores das músicas de fundo (background).
+
+8. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre 
+acórdãos que versem sobre situações fáticas idênticas.
+9. Recurso especial conhecido em parte e, nesta parte, provido" 
+(REsp 
+1.331.103/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 
+23/4/2013, DJe 16/5/2013 – grifou-se).
+
+Ademais, nos termos da jurisprudência desta Corte, é válida a tabela de preços 
+instiuída pelo ECAD, não podendo o Poder Público ou o Judiciário modificar tais valores em face 
+da natureza privada dos direitos postulados.
+Sobre o tema:
+
+"DIREITOS AUTORAIS. EXECUÇÃO DE OBRAS MUSICAIS. VALORES. TABELA 
+PRÓPRIA. PRESUNÇÃO LEGAL. ÔNUS DA PROVA. AGRAVO DESPROVIDO.
+
+I - Os valores cobrados pelo ECAD são aqueles fixados pela própria 
+instituição, em face da natureza privada dos direitos reclamados, não sujeitos 
+a tabela imposta por lei ou regulamentos administrativos.
+
+II - Nessa hipótese, o ônus de demonstrar a existência de fato impeditivo, 
+modificativo ou extintivo do direito do autor é do réu. Incidência, no caso, do art. 
+333, II, do CPC.
+III - Agravo regimental desprovido " (AgRg no Ag 780.560/PR, Rel. Ministro ALDIR 
+PASSARINHO JUNIOR, DJ 26/2/2007 - grifou-se). 
+
+"CIVIL. 
+DIREITOS 
+AUTORAIS. 
+ESTABELECIMENTO 
+COMERCIAL. 
+RESTAURANTE/BOATE. ECAD. VALORES. TABELA PRÓPRIA. VALIDADE.
+I. Em estabelecimentos comerciais que funcionam como bar/restaurante/boate, a 
+reprodução musical faz parte da própria natureza da atividade comercial, sendo 
+devida a cobrança de direitos autorais.
+
+II - Os valores cobrados pelo ECAD, em face da natureza privada dos direitos 
+reclamados, não estão sujeitos a tabela imposta por lei ou pelo Poder 
+Judiciário. Precedentes do STJ.
+
+III - Ao trazer documentos comprobatórios de pagamentos de mensalidades ao 
+ECAD, reconhecendo que reproduz música ambiente para seus clientes, reconhece 
+a ré o direito do autor.
+Recurso especial provido " (REsp 509.086/RJ, Rel. Ministro CASTRO FILHO, 
+
+Documento: 1580383 - Inteiro Teor do Acórdão - Site certificado - DJe: 21/03/2017
+
+Página  1 0 de 13
+
+  Superior Tribunal de JustiçaTERCEIRA TURMA, julgado em 15/8/2006, DJ 11/9/2006 - grifou-se).
+
+"Direito autoral. Tabela de preços. Competência do ECAD.
+
+1. Não cabe ao Poder Público estabelecer tabela de preços para a cobrança 
+de direitos autorais, ausente qualquer comando 
+legal nessa direção, 
+competente, assim, o ECAD para tanto.
+
+2. Recurso especial conhecido e provido " (REsp 163.543/RS, Rel. Ministro 
+CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 
+16/08/1999, DJ 13/09/1999 -grifou-se).
+
+Ainda no que diz respeito à tabela de preços, cumpre consignar que as alterações 
+promovidas pela Lei nº 12.853/2013, que dispõe sobre a gestão coletiva de direitos autorais, 
+regulamentada pelo Decreto nº 8.469/2015, não modificaram a sistemática de atuação do ECAD, 
+mas, sim, estabeleceram novos critérios a serem observados para a formação do preço a ser 
+cobrado para a utilização das obras e fonograma.
+Portanto, mesmo após a edição da Lei nº 12.853/2013, permanece incólume a 
+jurisprudência desta Casa no sentido de que o ECAD tem competência para fixar preços e efetuar 
+a cobrança e a distribuição dos direitos autorais.
+Verifica-se, 
+inclusive, que os novos parâmetros de arrecadação 
+já 
+foram 
+incorporados pelo ECAD, como demonstram os seguintes dispositivos do Regulamento de 
+Arrecadação:
+
+"Art. 1º. O presente Regulamento de Arrecadação tem por finalidade 
+estabelecer princípios e normas para a arrecadação dos direitos autorais e dos que 
+lhe são conexos relativos à execução pública de obras musicais, literomusicais e 
+
+fonogramas e, em consonância com o artigo 5º, inciso XXVII, da Constituição 
+Federal, artigos 28, 29, 68, 86, 90, 93, 98, 99 da Lei 9.610/98, alterados pela Lei 
+12.853/13, e artigos 6º, 7º, 8º, 9º e 13 do Decreto nº 8.469/15 , traduz a 
+unificação da cobrança dos direitos autorais de execução pública elaborada 
+pelas associações de Gestão Coletiva.
+
+(...)
+
+Art. 56. Ficam revogados a TABELA DE PREÇOS DE DIREITOS 
+AUTORAIS DO ECAD, publicada no 'Diário Oficial da União', seção I, de 24 de 
+julho de 1989, págs. 12.331 e o REGULAMENTO DE ARRECADAÇÃO , 
+consolidado e aprovado pela Assembleia Geral do Ecad em 12/08/98 e 
+
+24/11/98 , incorporadas as alterações aprovadas pela Assembleia Geral e em suas 
+274ª Reunião Ordinária, realizada no dia 12/03/03 e 423ª Reunião Extraordinária, 
+realizada no dia 11/12/13.
+(...)
+
+Art. 57. O presente Regulamento e as Tabelas de Preços anexas, 
+que dele são partes integrantes, foram devidamente consolidados com as 
+alterações que lhes foram pertinentes, aprovados pela Assembleia Geral do 
+Ecad em sua Reunião de nº 446ª, realizada em 15 de julho de 2015 e terão 
+vigência a partir do dia 21 de setembro de 2015 , conforme determina o artigo 
+36 do Decreto nº 8.469/15 , revogando-se todas as disposições que lhes são 
+
+Documento: 1580383 - Inteiro Teor do Acórdão - Site certificado - DJe: 21/03/2017
+
+Página  1 1 de 13
+
+  Superior Tribunal de Justiçacontrárias."
+
+Como visto, o início da vigência do Regulamento de Arrecadação e das tabelas de 
+preços em conformidade com a Lei nº 12.853/2013 e com o Decreto nº 8.469/2015 ocorre em 
+21/9/2015, de modo que as anteriores tabelas de preços de direitos autorais do ECAD são 
+consideradas válidas até tal data.
+Disso decorre que, ao contrário do que alega a recorrida, não há falar em extinção 
+das tabelas de preço do ECAD/1998. Assim, ao tempo que em ajuizada a presente demanda, 
+6/12/2009, era válida a cobrança no percentual indicado na petição inicial, qual seja, 7,5 % (sete e 
+meio por cento) das receitas de assinatura e de publicidade obtidas através de qualquer 
+comercialização de espaços publicitários insertos no portal da internet da recorrida.
+Ante o exposto, dou provimento ao recurso especial para julgar procedentes os 
+pedidos formulados na inicial, devendo incidir correção monetária e juros de mora a partir da data 
+em que cometida a infração ao direito autoral. 
+Consequentemente, a recorrida arcará com as custas processuais e com os 
+honorários advocatícios, estes arbitrados em 10% sobre o valor da condenação.
+É o voto.
+
+Documento: 1580383 - Inteiro Teor do Acórdão - Site certificado - DJe: 21/03/2017
+
+Página  1 2 de 13
+
+  Superior Tribunal de JustiçaCERTIDÃO DE JULGAMENTO
+TERCEIRA TURMA
+
+Número Registro: 2015/0267853-9
+
+PROCESSO ELETRÔNICO REsp 1.567.780 / RJ
+
+Números Origem:  03921284620098190001  201524561462  3921284620098190001
+PAUTA: 14/03/2017
+JULGADO: 14/03/2017
+
+Relator
+Exmo. Sr. Ministro  RICARDO VILLAS BÔAS CUEVA
+Presidente da Sessão
+Exmo. Sr. Ministro MARCO AURÉLIO BELLIZZE
+Subprocurador-Geral da República
+Exmo. Sr. Dr. CARLOS ALBERTO CARVALHO VILHENA
+Secretária
+Bela. MARIA AUXILIADORA RAMALHO DA ROCHA
+AUTUAÇÃO
+
+RECORRENTE
+ADVOGADOS
+
+ADVOGADA
+RECORRIDO 
+ADVOGADOS
+
+: ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO  ECAD 
+: HÉLIO SABOYA RIBEIRO DOS SANTOS FILHO  - RJ068819 
+ PEDRO PAULO MUANIS SOBRINHO E OUTRO(S) - RJ082788 
+: KARINA HELENA CALLAI E OUTRO(S) - DF011620 
+: TV ÔMEGA LTDA 
+: ANDRÉA MARIA RODRIGUES  - RJ102236 
+ THIAGO MENDES LADEIRA E OUTRO(S) - SP154633 
+ MARCOS ALBERTO SANTA'NNA BITELLI  - RJ002607A
+ ALEX CARLOS CAPURA DE ARAUJO  - SP296255 
+ASSUNTO: DIREITO CIVIL - Responsabilidade Civil - Indenização por Dano Moral
+
+SUSTENTAÇÃO ORAL
+Dr(a). HÉLIO SABOYA RIBEIRO DOS SANTOS FILHO, pela parte RECORRENTE: 
+ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO  ECAD
+CERTIDÃO
+Certifico que a egrégia TERCEIRA TURMA, ao apreciar o processo em epígrafe na sessão 
+realizada nesta data, proferiu a seguinte decisão:
+A Terceira Turma, por unanimidade, deu provimento ao recurso especial, nos termos do 
+voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Aurélio Bellizze (Presidente), Moura Ribeiro, Nancy Andrighi e 
+Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+
+Documento: 1580383 - Inteiro Teor do Acórdão - Site certificado - DJe: 21/03/2017
+
+Página  1 3 de 13
+
+  Superior Tribunal de Justiça 
+ 
+
